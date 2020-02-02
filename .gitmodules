@@ -1,3 +1,6 @@
 [submodule "genome-data"]
 	path = ref/genome-data
 	url = git@github.com:Contributors-of-anti-2019-nCoV/2019-nCoV.git
+[submodule "simulation-ODE"]
+	path = simulation
+	url = git@github.com:chrism0dwk/wuhan.git
