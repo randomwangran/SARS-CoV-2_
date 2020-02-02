@@ -24,8 +24,13 @@ Because I am involved in mankind,
 And therefore never send to know for whom the bell tolls;
 It tolls for thee.
 
+# Main reference
+## [biorxiv](https://www.biorxiv.org/search/nCoV)
+
 
 # Day 0 
+
+## [paper] nCoV with HIV-1
 标题
 1. 什么是 uncanny 相似度？
 2. unique insert 是什么？
@@ -45,7 +50,12 @@ HIV-1 的关键蛋白是什么，是独特的么？
 
 
 
+# Day 1
 
+## [paper] nCoV with HIV-1
+
+### ref
+[negitive comment](https://www.biorxiv.org/content/10.1101/2020.01.30.927871v1?versioned=true#comment-4778830102)
 
 
 
