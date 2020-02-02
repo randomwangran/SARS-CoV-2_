@@ -23,3 +23,42 @@ Any man's death diminishes me,
 Because I am involved in mankind,
 And therefore never send to know for whom the bell tolls;
 It tolls for thee.
+
+
+# Day 0 
+标题
+1. 什么是 uncanny 相似度？
+2. unique insert 是什么？
+3. 对比什么？
+是在都比 nCoV 的 spike 蛋白 与  HIV-1 gp120 么？ 
+4. 什么是 Gag?
+
+摘要：
+1. 对冠状病毒的区别依据是什么？
+这里说在 spike glycoprotein (S) 存在 4 个插入点 (insertion) 。
+2. 什么是 spike glycoprotein?
+3. 什么是 insertion?
+4. 为什么是 insertition 是不连续的？
+5. 什么是  receptor binding site?
+6. 为什么 4个 insert 点和 HIV-1 的关键蛋白存在相似性？
+HIV-1 的关键蛋白是什么，是独特的么？
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
