@@ -1,0 +1,3 @@
+[submodule "genome-data"]
+	path = ref/genome-data
+	url = git@github.com:Contributors-of-anti-2019-nCoV/2019-nCoV.git
